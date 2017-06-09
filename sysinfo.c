@@ -1,0 +1,10 @@
+sprintf(buffer,"**System used for compilation:\n");
+output_string(buffer);
+sprintf(buffer,"**Linux pacorspi 4.4.50-v7+ #970 SMP Mon Feb 20 19:18:29 GMT 2017 armv7l GNU/Lin\n");
+output_string(buffer);
+sprintf(buffer,"**C compiler: gcc version 4.9.2 (Raspbian 4.9.2-10) \n");
+output_string(buffer);
+sprintf(buffer,"**libc: \n");
+output_string(buffer);
+sprintf(buffer,"**Date of compilation: 2017年 06月 09日 星期五 05:11:16 UTC\n");
+output_string(buffer);
